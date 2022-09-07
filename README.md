@@ -41,3 +41,8 @@ private method in the API that checks if a Device exists (based on the ID parsed
 // DELETE: api/Zones/5 -- delete zone
 private method in the API that checks if a Zone exists (based on the ID parsed through) before editing or deleting an item
 
+# reference list
+https://docs.microsoft.com/en-us/aspnet/core/tutorials/web-api-help-pages-using-swagger?view=aspnetcore-3.1, 
+https://docs.microsoft.com/en-us/training/modules/build-web-api-aspnet-core/,
+https://docs.microsoft.com/en-us/aspnet/core/tutorials/web-api-help-pages-using-swagger?view=aspnetcore-3.1,
+https://docs.microsoft.com/en-us/shows/aspnet-core-101/?wt.mc_id=educationaspnet-c9-niner,
