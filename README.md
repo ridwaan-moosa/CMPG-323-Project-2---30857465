@@ -46,3 +46,5 @@ https://docs.microsoft.com/en-us/aspnet/core/tutorials/web-api-help-pages-using-
 https://docs.microsoft.com/en-us/training/modules/build-web-api-aspnet-core/,
 https://docs.microsoft.com/en-us/aspnet/core/tutorials/web-api-help-pages-using-swagger?view=aspnetcore-3.1,
 https://docs.microsoft.com/en-us/shows/aspnet-core-101/?wt.mc_id=educationaspnet-c9-niner,
+https://docs.microsoft.com/en-us/aspnet/core/tutorials/publish-to-azure-api-management-using-vs?view=aspnetcore-6.0,
+https://docs.microsoft.com/en-us/learn/paths/create-microservices-with-dotnet/
